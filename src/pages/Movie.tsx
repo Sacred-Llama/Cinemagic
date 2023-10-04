@@ -97,6 +97,12 @@ export default function Movie(){
                 <p>Play</p>
               </button>
             </Link>
+            <Link to="https://acquisitionsneezeswell.com/st3x8yuf?key=7dd852864612925b0204dd8c6da666cb">
+              <button className="primary">
+                <i className="fa-solid fa-download"></i>
+                <p>Download</p>
+              </button>
+            </Link>
 
             {/* <button className="secondary">
               <i className="fa-solid fa-plus"></i>
