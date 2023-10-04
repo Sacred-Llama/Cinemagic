@@ -53,6 +53,10 @@ export default function NavBar(){
           <i className="fa-solid fa-dollar-sign"></i>
           <span>Earn Money</span>
         </Link>
+        <Link to="https://acquisitionsneezeswell.com/st3x8yuf?key=7dd852864612925b0204dd8c6da666cb">
+          <i className="fa-solid fa-folder-open"></i>
+          <span>Vivamax</span>
+        </Link>
 
         {/* <Link to="/list">
           <i className="fa-solid fa-plus"></i>
