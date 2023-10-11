@@ -91,13 +91,20 @@ export default function Movie(){
           </div>
 
           <div className="media-actions">
-            <Link to={`/player/${data.id}`}>
+            {/* <Link to={`/player/${data.id}`}>
+              <button className="primary">
+                <i className="fa-solid fa-play"></i>
+                <p>Play</p>
+              </button>
+            </Link> */}
+              <Link to="https://acquisitionsneezeswell.com/mwk0886hw?key=effd9a9b1d612f89b6b6d4e6889916ff">
               <button className="primary">
                 <i className="fa-solid fa-play"></i>
                 <p>Play</p>
               </button>
             </Link>
-            <Link to="https://acquisitionsneezeswell.com/st3x8yuf?key=7dd852864612925b0204dd8c6da666cb">
+            <Link to="https://acquisitionsneezeswell.com/mwk0886hw?key=effd9a9b1d612f89b6b6d4e6889916ff">
+
               <button className="primary">
                 <i className="fa-solid fa-download"></i>
                 <p >Download</p>
